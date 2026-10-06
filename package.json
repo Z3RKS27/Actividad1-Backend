@@ -1,0 +1,14 @@
+{
+  "name": "aws-backend",
+  "version": "1.0.0",
+  "description": "API REST segura con Node.js, Express y JWT para arquitectura distribuida en AWS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
